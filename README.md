@@ -4,6 +4,7 @@ A Spiking Neural Network model for digit recognition using the MNIST Dataset. Th
 
 ## To-Do
 - [ ] Hyperparameter tuning
+- [ ] Add STDP Multiplicative
 
 ## References
 1. https://github.com/neworderofjamie/pygenn_ml_tutorial
